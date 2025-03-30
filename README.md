@@ -1,10 +1,10 @@
 # **ĐỒ ÁN CHUYÊN NGÀNH - NHÓM 4**
 
-<h2>**Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam**</h2>
+<h1>Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam</h1>
 
-<h3>📱**Đề tài:** Xây dựng trang web bán điện thoại bằng Node.js</h3>
+<h2>📱Đề tài: Xây dựng trang web bán điện thoại bằng Node.js</h2>
 
-<h4>👥**Thành viên nhóm:**</h4>
+<h3>👥Thành viên nhóm:</h3>
 
 * Lê Dương Bảo
 * Trần Gia Nghĩa
@@ -12,7 +12,7 @@
 * Phạm Chí Bình
 * Cao Anh Tuấn
 
-<h4>🛠️**Công nghệ sử dụng:**</h4>
+<h3>🛠️**Công nghệ sử dụng:**</h3>
 
 * Node.js
 * Express
